@@ -36,8 +36,4 @@ This project demonstrates how to manually implement a **grid search with cross-v
 - NumPy
 - Matplotlib
 
-Install via pip:
 
-```bash
-pip install tensorflow numpy matplotlib
- MNIST-dataset
